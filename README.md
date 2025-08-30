@@ -3,11 +3,11 @@
 Este projeto tem como objetivo detectar notas fiscais com impostos incorretos utilizando técnicas de Machine Learning. A solução é composta por duas partes principais:
 
 1. **API** (com FastAPI) para disponibilizar o modelo de forma escalável.  
-2. **[Aplicação Streamlit](https://tax-invoice-validator.streamlit.app/)** ([disponibilidade em AWS](http://18.119.19.95:8501)) para análise de dados, visualização e testes interativos.
+2. **[Aplicação Streamlit](https://tax-invoice-validator-application.streamlit.app/)** ([disponibilidade em AWS](http://18.119.19.95:8501)) para análise de dados, visualização e testes interativos.
 <img src="\img\app.png" style="height:25rem;" />
 
 ## Google Colab
-Você pode acessar o notebook do projeto no [Google Colab](https://colab.research.google.com/drive/1dnBPHeDEy3yflbQbv-ZfqcXRM2wXbTZA?usp=sharing).
+Você pode acessar o notebook do projeto no [Google Colab](https://colab.research.google.com/drive/1w3HkTfwctgNgYarqg0str1m63O08iLeQ?usp=sharing).
 
 ---
 
